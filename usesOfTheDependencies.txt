@@ -1,0 +1,9 @@
+ bcryptjs: helps to encryt user password before storing in the database 
+ body-parser: it is a middle-ware in nodejs use for handling http post request from the client side to the backend
+ cookie-parser:  it is a middle-ware which parses cookies attach to the client request object
+ cors: cors stand for "cross origin resource sharing" it is a mechanism by which a frontend  client can make request for resources to an external backend server
+ dotenv: this helps us to hide sensitive data from user in the frontend
+ express: this a nodejs framework that makes building the backend server easy
+ express-validator: it helps to add some extra constrints in validating the user information eg: minimuim characters in the password or username and use of alpa-numeric keys 
+ jsonwebtoken: this are mainly used for authentication during the sign in and signup process
+ mongoose:  is an object data modeling libray for mongoDB and nodeJS and it manages relationship between data, provide schema validation , and used to translate between objects in code and the represented of those objects in MongoDB and it is a schema-less NoSQL document database 
